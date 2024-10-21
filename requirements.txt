@@ -1,0 +1,6 @@
+aiogram
+python-dotenv
+requests
+gigachain
+gigachain-cli
+gigachain_community
